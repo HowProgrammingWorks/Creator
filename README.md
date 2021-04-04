@@ -1,2 +1,1 @@
-# CreatorGRASP
-GRASP: Creator principle
+# GRASP: Creator principle
