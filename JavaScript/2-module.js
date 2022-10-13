@@ -1,6 +1,6 @@
 'use strict';
 
-const crypto = require('crypto');
+const crypto = require('node:crypto');
 
 const UINT32_MAX = 0xffffffff;
 const BUF_LEN = 1024;
